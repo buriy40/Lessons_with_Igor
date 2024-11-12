@@ -1,7 +1,9 @@
 # a = 4**4**4
 # print(a)
-#
+
+
 # print(int('4-2'))
+
 
 # def pos_add(a,b):
 #     return abs(a+b)
@@ -10,6 +12,7 @@
 # print(pos_add(7, -5))
 # print(pos_add(-2, -3))
 
+
 # def foo(a):
 # #    return divmod(a, -11)
 #     return a//-11, a%-11
@@ -17,6 +20,7 @@
 # print(foo(22))
 # print(foo(-47))
 # print(foo(111))
+
 
 def num_sum(a):
     # 1. Определяем принадлежность значения 'a' к целому числу, но не к булеву типу
