@@ -1,3 +1,14 @@
+#№1
+#a = 11*2**2-13/4+7
+#print(a)
+
+#№2
+from sys import getsizeof
+getsizeof(3**9090001)/(1024*1024)
+print(getsizeof((3**9090001)/(1024*1024)))
+
+
+
 # a = 4**4**4
 # print(a)
 
